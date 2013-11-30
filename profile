@@ -1,0 +1,2 @@
+export DJANGO_SETTINGS_MODULE=iktest.settings
+export PYTHONPATH=$PWD:$PYTHONPATH
